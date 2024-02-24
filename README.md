@@ -24,6 +24,9 @@ Check it out here: [Website](https://hdunl.github.io)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Waitress](https://img.shields.io/badge/Waitress-776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 
