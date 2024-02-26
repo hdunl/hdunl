@@ -11,7 +11,7 @@ Check it out here: [Website](https://hdunl.github.io)
 ### HTTP Scanner in Go
 ByteSeeker is an HTTP scanning application written in Go for efficient URL path scanning with concurrent goroutines and user agent rotation. It also utilizes DNS caching and an adaptive delay mechanism.
 
-[ByteSeeker](https://github.com/hdunl/byteseeker)
+Check it out here: [ByteSeeker](https://github.com/hdunl/byteseeker)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
