@@ -3,15 +3,7 @@
 📚 I am a student studying programming, cybersecurity, and Artificial Intelligence.
 
 ## 🚀 Current Project(s)
-### Algorithm Visualizing Website
-I'm currently developing an **Algorithm Visualizing Website**, aimed at making complex algorithms understandable through visualizations.
-
-Check it out here: [Website](https://hdunl.github.io)
-
-### HTTP Scanner in Go
-**ByteSeeker** is an HTTP scanning application written in Go for efficient URL path scanning with concurrent goroutines and user agent rotation. It also utilizes DNS caching and an adaptive delay mechanism.
-
-Check it out here: [ByteSeeker](https://github.com/hdunl/byteseeker)
+### Studying security and blackhat Rust techniques
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
