@@ -1,6 +1,6 @@
 <!-- ABOUT ME -->
 # About Me
-📚 I am a student studying programming, cybersecurity, and Artificial Intelligence.
+📚 I am a student studying Programming, Cybersecurity, and Artificial Intelligence.
 
 ## 🚀 Current Project(s)
 ### Studying security and blackhat Rust techniques
