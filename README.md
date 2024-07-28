@@ -3,7 +3,7 @@
 📚 Studying Programming, Cybersecurity, and Artificial Intelligence.
 
 ## 🚀 Current Project(s)
-### Studying security and blackhat Rust techniques
+### Summer Software Engineering Course
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
