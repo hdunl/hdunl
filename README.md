@@ -3,7 +3,7 @@
 📚 Studying Programming, Cybersecurity, and Artificial Intelligence.
 
 ## 🚀 Current Project(s)
-### Summer Software Engineering Course
+### Summer Agile Software Engineering Course
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
