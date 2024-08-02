@@ -3,7 +3,7 @@
 📚 Studying Rust & Java, Cybersecurity, and Artificial Intelligence.
 
 ## 🚀 Current Project(s)
-### Summer Agile Software Engineering Course
+### LEARNING
 
 # 💻 Tech Stack
 
