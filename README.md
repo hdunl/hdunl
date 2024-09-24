@@ -3,7 +3,7 @@
 📚 Studying Rust & Java, Cybersecurity, and Artificial Intelligence.
 
 ## 🚀 Current Project(s)
-### LEARNING
+https://fungifinder.xyz/
 
 # 💻 Tech Stack
 
