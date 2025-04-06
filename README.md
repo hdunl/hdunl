@@ -1,3 +1,5 @@
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hdunl.hdunl)
+
 <!-- ABOUT ME -->
 # About Me
 📚 Studying Rust & Java, Cybersecurity, and Artificial Intelligence.
