@@ -5,7 +5,7 @@
 📚 Studying Rust & Java, Cybersecurity, and Artificial Intelligence.
 
 ## 🚀 Current Project(s)
-https://fungifinder.xyz/
+https://fungifinder.xyz/ | https://github.com/peeberpoober/beta-d.a.r.k.-cheat/
 
 # 💻 Tech Stack
 
