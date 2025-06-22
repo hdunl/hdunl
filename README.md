@@ -5,7 +5,7 @@
 📚 Studying Rust & Java, Cybersecurity, and Artificial Intelligence.
 
 ## 🚀 Current Project(s)
-https://github.com/peeberpoober/beta-d.a.r.k.-cheat/
+Learning; MSc in progress
 
 # 💻 Tech Stack
 
