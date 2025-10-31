@@ -2,7 +2,8 @@
 
 <!-- ABOUT ME -->
 # About Me
-📚 Studying Rust & Java, Cybersecurity, and Artificial Intelligence.
+B.S. in CIS
+📚 Studying Rust, Cybersecurity, and Artificial Intelligence.
 
 ## 🚀 Current Project(s)
 Learning; MSc in progress
