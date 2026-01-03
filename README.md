@@ -3,12 +3,12 @@
 <!-- ABOUT ME -->
 # About Me
 B.S. in CIS
-📚 Studying Rust, Cybersecurity, and Artificial Intelligence.
+Studying Rust, Cybersecurity, and Artificial Intelligence.
 
-## 🚀 Current Project(s)
+## Current Project(s)
 Learning; MSc in progress
 
-# 💻 Tech Stack
+# Tech Stack
 
 ## Proficient (Junior Dev standards)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -37,7 +37,7 @@ Learning; MSc in progress
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hdunl&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="hdunl's GitHub Stats" />
