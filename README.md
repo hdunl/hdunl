@@ -39,9 +39,10 @@ Learning; MSc in progress
 
 # GitHub Stats
 
+# GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hdunl&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="hdunl's GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hdunl&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-kohl-five.vercel.app/api?username=hdunl&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="hdunl's GitHub Stats" />
+  <img src="https://github-readme-stats-kohl-five.vercel.app/api/top-langs/?username=hdunl&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
