@@ -42,6 +42,3 @@ Learning; MSc in progress
   <img src="https://github-readme-stats-kohl-five.vercel.app/api?username=hdunl&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="hdunl's GitHub Stats" />
   <img src="https://github-readme-stats-kohl-five.vercel.app/api/top-langs/?username=hdunl&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
 </p>
-
-## 🏆 GitHub Trophies
-![](https://trophy.ryglcloud.net/?username=hdunl&theme=radical&no-frame=true&no-bg=false&margin-w=4)
