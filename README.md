@@ -2,11 +2,10 @@
 
 <!-- ABOUT ME -->
 # About Me
-B.S. in CIS
-Studying Rust, Cybersecurity, and Artificial Intelligence.
+B.S. in CIS - ISC2 CC
 
 ## Current Project(s)
-Learning; MSc in progress
+Learning: MSc in progress
 
 # GitHub Stats
 <p align="center">
